@@ -1,0 +1,2 @@
+# STM32CUBEMX_FYP
+利用stm32CubeMX完成AD采集后存储在SD卡中，并且使用文件操作
