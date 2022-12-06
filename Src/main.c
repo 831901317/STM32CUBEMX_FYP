@@ -169,6 +169,8 @@ void WritetoSD(BYTE write_buff[],uint8_t bufSize)
 }
 
 
+
+
 void Get_SDCard_Capacity(void)
 {
 	FRESULT result;
@@ -260,40 +262,23 @@ int main(void)
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
-  {
-		
-		
-		
-		WritetoSD(WriteBuffer,sizeof(WriteBuffer));		
-
-		
-		
+  {		
+		WritetoSD(WriteBuffer,sizeof(WriteBuffer));			
 		HAL_Delay(500);
-		WriteBuffer[0] = WriteBuffer[0] +10;
-		WriteBuffer[1] = WriteBuffer[1] +10;
-		write_cnt ++;
-		
+		WriteBuffer[0] = WriteBuffer[0] +0;
+		WriteBuffer[1] = WriteBuffer[1] +1;
+		write_cnt ++;		
 		while(write_cnt > 10)
 		{	
 			printf(" while \r\n");
 			HAL_Delay(500);
-		}		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		}			
     /* USER CODE END WHILE */
-
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
 }
+
 
 /**
   * @brief System Clock Configuration

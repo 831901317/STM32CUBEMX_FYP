@@ -1,5 +1,5 @@
 sipddd\syscall.o: ../Middlewares/Third_Party/FatFs/src/option/syscall.c
-sipddd\syscall.o: H:\StudyPack\MDK5.24a\ARM\ARMCC\Bin\..\include\stdlib.h
+sipddd\syscall.o: D:\Program Files\KEIL\ARM\ARMCC\Bin\..\include\stdlib.h
 sipddd\syscall.o: ../Middlewares/Third_Party/FatFs/src/option/../ff.h
 sipddd\syscall.o: ../Middlewares/Third_Party/FatFs/src/option/../integer.h
 sipddd\syscall.o: ../Inc/ffconf.h
@@ -11,13 +11,13 @@ sipddd\syscall.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
 sipddd\syscall.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
 sipddd\syscall.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
 sipddd\syscall.o: ../Drivers/CMSIS/Include/core_cm3.h
-sipddd\syscall.o: H:\StudyPack\MDK5.24a\ARM\ARMCC\Bin\..\include\stdint.h
+sipddd\syscall.o: D:\Program Files\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
 sipddd\syscall.o: ../Drivers/CMSIS/Include/core_cmInstr.h
 sipddd\syscall.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
 sipddd\syscall.o: ../Drivers/CMSIS/Include/core_cmFunc.h
 sipddd\syscall.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
 sipddd\syscall.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
-sipddd\syscall.o: H:\StudyPack\MDK5.24a\ARM\ARMCC\Bin\..\include\stdio.h
+sipddd\syscall.o: D:\Program Files\KEIL\ARM\ARMCC\Bin\..\include\stdio.h
 sipddd\syscall.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
 sipddd\syscall.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
 sipddd\syscall.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h

@@ -7,13 +7,13 @@ sipddd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
 sipddd\main.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
 sipddd\main.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
 sipddd\main.o: ../Drivers/CMSIS/Include/core_cm3.h
-sipddd\main.o: H:\StudyPack\MDK5.24a\ARM\ARMCC\Bin\..\include\stdint.h
+sipddd\main.o: D:\Program Files\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
 sipddd\main.o: ../Drivers/CMSIS/Include/core_cmInstr.h
 sipddd\main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
 sipddd\main.o: ../Drivers/CMSIS/Include/core_cmFunc.h
 sipddd\main.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
 sipddd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
-sipddd\main.o: H:\StudyPack\MDK5.24a\ARM\ARMCC\Bin\..\include\stdio.h
+sipddd\main.o: D:\Program Files\KEIL\ARM\ARMCC\Bin\..\include\stdio.h
 sipddd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
 sipddd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
 sipddd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
